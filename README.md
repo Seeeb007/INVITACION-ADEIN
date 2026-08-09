@@ -1,38 +1,28 @@
 # Participación Docente - Semana Azul 2026
 
-Sitio estático preparado para GitHub Pages.
+Versión actualizada para GitHub Pages.
 
-## Contenido
+## Cambios incluidos
 
-- Invitación breve a docentes de Ingeniería Industrial.
-- Instrucciones para la participación en Six-Pract.
-- Instrucciones generales para Cacería Extraña.
-- Fechas de ambas actividades.
-- Ejemplos simples sin revelar los retos de Cacería.
-- Imagen institucional de ADEIN.
+- Logo oficial de ADEIN al inicio y en el pie.
+- Tipografía y tamaño de lectura aumentados.
+- Textos principales justificados en escritorio.
+- Horarios incorporados:
+  - Six-Pract: lunes 10 de agosto, a partir de las 7:00 p. m.
+  - Cacería Extraña: viernes 14 de agosto, a partir de las 3:00 p. m.
+- Aclaración de que los horarios son una referencia inicial y se buscará coordinar un momento en el que todos los docentes puedan asistir.
+- Diseño responsive en azul marino, negro y dorado.
 
 ## Publicar en GitHub Pages
 
-1. Crea un repositorio en GitHub.
-2. Sube todo el contenido de esta carpeta conservando la estructura:
+1. Crea o abre tu repositorio.
+2. Sube:
    - `index.html`
    - `styles.css`
-   - `assets/adein-logo.jpg`
-3. En GitHub abre **Settings > Pages**.
+   - la carpeta `assets/`
+3. Abre **Settings > Pages**.
 4. En **Build and deployment**, selecciona **Deploy from a branch**.
-5. Selecciona la rama `main` y la carpeta `/ (root)`.
+5. Selecciona `main` y `/ (root)`.
 6. Guarda los cambios.
 
-No requiere dependencias, JavaScript, instalación ni compilación.
-
-## Edición rápida
-
-El texto se modifica directamente en `index.html`.
-Los colores y estilos se encuentran en `styles.css`.
-
-### Paleta
-
-- Azul marino: `#061426`
-- Negro: `#02060b`
-- Dorado: `#c9a14a`
-- Dorado claro: `#e3c67f`
+No requiere dependencias ni compilación.
